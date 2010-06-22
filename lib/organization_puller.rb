@@ -36,7 +36,6 @@ class OrganizationPuller < Puller
   #Adds organizations that are not included in the organization page but are used as sources
   #for the source page.
   append_bonus_orgs(metadata)
-  debugger
 	metadata	
   end
 

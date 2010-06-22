@@ -44,7 +44,7 @@ class SourcePuller < Puller
 			:description=>U.multi_line_clean(title),
       :url=>url,
       :organization=>{:name=>org_name},
-			:downloads=>{format_key.intern=>link }
+			:downloads=>[{:format=>format_key.intern, :url=>link }]
 		}
 	  end
 
