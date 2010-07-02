@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: The Bulletin 1011 is a financial report that groups districts by size of pupil membership. It contains various pieces of financial information about groups of Michigan Public Schools including balance sheet, revenue and expenditure data.
+:downloads: 
+- :format: :dbf
+  :url: http://michigan.gov/documents/mde/b1011-07_237039_7.DBF
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: "Bulletin 1011 Database: 2006-07"
+:url: http://michigan.gov/

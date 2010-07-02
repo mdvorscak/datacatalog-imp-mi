@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: The "Local Area Unemployment Statistics" Program (LAUS) produces employment and unemployment estimates for states, counties, cities with over 25,000 residents, and other labor market areas.
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/hal/lm_census_LAUS_County_Emp9807_268576_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: County Employment, 1998-2007
+:url: http://michigan.gov/

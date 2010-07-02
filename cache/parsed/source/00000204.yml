@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Transportation Expenditure Report (SE-4094) Data Set
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/cepi/2007-2008_SE4094_Data_278167_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: Financial Data - Transportation Expenditure Reports (SE-4094)2007-2008
+:url: http://michigan.gov/

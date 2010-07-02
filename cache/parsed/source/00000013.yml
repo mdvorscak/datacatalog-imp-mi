@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Class of 2003 Summary Data
+:downloads: 
+- :format: :zip
+  :url: http://michigan.gov/documents/03summary_95080_7.zip
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: "Summary Data: Class of 2003"
+:url: http://michigan.gov/

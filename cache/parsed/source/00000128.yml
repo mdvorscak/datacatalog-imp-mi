@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: 2003 Winter Grades 4, 5, 7 and 8 MEAP Test Results
+:downloads: 
+- :format: :zip
+  :url: http://michigan.gov/documents/Winter03_95087_7.zip
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: "MEAP Test Results: 2003 Winter Grades 4, 5, 7 and 8"
+:url: http://michigan.gov/

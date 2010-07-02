@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Tables are sorted first by age then by sex, race and Hispanic origin.
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/hal/lm_census_sarsh0007_276144_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: "Population of Michigan (Estimated) by Age: 2000-2007"
+:url: http://michigan.gov/

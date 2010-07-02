@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Provides downloadable MS Excel Files of active and closed UST facilities, and open and closed LUST sites, either for a whole DEQ district or for individual counties within a district. A complete list of active and closed UST facilities , and open and closed LUST sites is also downloadable.
+:downloads: 
+- :format: :html
+  :url: http://www.deq.state.mi.us/sid-web/Download_Search.aspx
+:frequency: unknown
+:organization: 
+  :name: www.deq.state.mi.us
+  :url: http://www.deq.state.mi.us/
+:source_type: dataset
+:title: Storage Tank Information Database (Excel Format)
+:url: http://www.deq.state.mi.us/

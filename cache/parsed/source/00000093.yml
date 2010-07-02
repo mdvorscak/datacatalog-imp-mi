@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Provides estimated population
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/Table1_place03_95116_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: "Population (Estimated) of Incorporated Places, 2000-2003: Michigan Data - Table 1"
+:url: http://michigan.gov/

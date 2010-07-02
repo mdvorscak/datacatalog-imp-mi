@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: See how individual districts and schools compare to the statewide averages on the Michigan Educational Assessment Program (MEAP) tests and high school Michigan Merit Exam (MME).
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/mde/15_Spring_2009_MME_ACT_CollegeReadiness_283866_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: "ACT School & District College Readiness Data: Spring 2009 (High Schools)"
+:url: http://michigan.gov/

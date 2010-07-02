@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/hal_lm_census_c_sex_singleyearofage_104688_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: County Population Estimates by Sex for Single Years of Age 7/1/2000 -7/1/2003
+:url: http://michigan.gov/

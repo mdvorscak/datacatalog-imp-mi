@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+:downloads: 
+- :format: :shp
+  :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Washtenaw
+:frequency: unknown
+:organization: 
+  :name: www.mcgi.state.mi.us
+  :url: http://www.mcgi.state.mi.us/
+:source_type: dataset
+:title: "Washtenaw County - MI Geographic Framework Base "
+:url: http://www.mcgi.state.mi.us/

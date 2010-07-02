@@ -1,0 +1,2209 @@
+--- 
+- :description: See how individual districts and schools compare to the statewide averages on the Michigan Educational Assessment Program (MEAP) tests and high school Michigan Merit Exam (MME).
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/Spring_2008_MME_Public_ACT_CollegeReportable_276255_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "ACT School & District College Readiness Data: Spring 2008 (High Schools)"
+  :url: http://michigan.gov/
+- :description: See how individual districts and schools compare to the statewide averages on the Michigan Educational Assessment Program (MEAP) tests and high school Michigan Merit Exam (MME).
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/15_Spring_2009_MME_ACT_CollegeReadiness_283866_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "ACT School & District College Readiness Data: Spring 2009 (High Schools)"
+  :url: http://michigan.gov/
+- :description: Provides the official population. Numbers and projections are broken down by age.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_USProj04age_87546_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Actual and Projected Population of the U.S. by Age, 1900 - 2050
+  :url: http://michigan.gov/
+- :description: Provides the official population projections.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_USProj04pop_87551_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Actual and Projected Population of the U.S., 1900 - 2050
+  :url: http://michigan.gov/
+- :description: Provides trends in households
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_aggincbysource06_206849_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Aggregate Household Income by Component: Michigan"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Alcona
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Alcona County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Alger
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Alger County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Allegan
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Allegan County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Alpena
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Alpena County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Antrim
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Antrim County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Arenac
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Arenac County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: State, District and School Attendance Data 2006-07, 2007-08 and 2008-09
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/Attendance_196113_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Attendance Data
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Baraga
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Baraga County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Barry
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Barry County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Bay
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Bay County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Benzie
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Benzie County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Berrien
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Berrien County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Branch
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Branch County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Building Permits
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Revised_BPFootnotes0007_280294_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Building Permit Footnotes: 2000-2007"
+  :url: http://michigan.gov/
+- :description: Communities with Imputed Building Permit Data due to Non-Reporting
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_BPreporting0007_261372_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Building Permits - Communities with Imputed Data due to Non-Reporting
+  :url: http://michigan.gov/
+- :description: Building Permit Data for Michigan
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Building_Permits_0008_280288_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Building Permits Issued by Michigan Communities: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Building Permit Data for Michigan
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Building_Permits_for_State_0008_280291_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Building Permits Issued in Michigan: 2000-2008"
+  :url: http://michigan.gov/
+- :description: The Bulletin 1011 is a financial report that groups districts by size of pupil membership. It contains various pieces of financial information about groups of Michigan Public Schools including balance sheet, revenue and expenditure data.
+  :downloads: 
+  - :format: :dbf
+    :url: http://michigan.gov/documents/b1011_042_128405_7.dbf
+  :organization: 
+    :name: michigan.gov
+  :title: "Bulletin 1011 Database: 2003-04"
+  :url: http://michigan.gov/
+- :description: The Bulletin 1011 is a financial report that groups districts by size of pupil membership. It contains various pieces of financial information about groups of Michigan Public Schools including balance sheet, revenue and expenditure data.
+  :downloads: 
+  - :format: :dbf
+    :url: http://michigan.gov/documents/b101105_158733_7.DBF
+  :organization: 
+    :name: michigan.gov
+  :title: "Bulletin 1011 Database: 2004-05"
+  :url: http://michigan.gov/
+- :description: The Bulletin 1011 is a financial report that groups districts by size of pupil membership. It contains various pieces of financial information about groups of Michigan Public Schools including balance sheet, revenue and expenditure data.
+  :downloads: 
+  - :format: :dbf
+    :url: http://michigan.gov/documents/mde/b101106_193512_7.dbf
+  :organization: 
+    :name: michigan.gov
+  :title: "Bulletin 1011 Database: 2005-06"
+  :url: http://michigan.gov/
+- :description: The Bulletin 1011 is a financial report that groups districts by size of pupil membership. It contains various pieces of financial information about groups of Michigan Public Schools including balance sheet, revenue and expenditure data.
+  :downloads: 
+  - :format: :dbf
+    :url: http://michigan.gov/documents/mde/b1011-07_237039_7.DBF
+  :organization: 
+    :name: michigan.gov
+  :title: "Bulletin 1011 Database: 2006-07"
+  :url: http://michigan.gov/
+- :description: The Bulletin 1011 is a financial report that groups districts by size of pupil membership. It contains various pieces of financial information about groups of Michigan Public Schools including balance sheet, revenue and expenditure data.
+  :downloads: 
+  - :format: :dbf
+    :url: http://michigan.gov/documents/mde/b101108_274873_7.dbf
+  :organization: 
+    :name: michigan.gov
+  :title: "Bulletin 1011 Database: 2007-08"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Calhoun
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Calhoun County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Cass
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Cass County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Charlevoix
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Charlevoix County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Cheboygan
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Cheboygan County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Chippewa
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Chippewa County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Clare
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Clare County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Clinton
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Clinton County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Sample of Historical Graduation and Dropout Data (including subgroup data)
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/2007_MI_Grad-Drop_wSubgrp_285177_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Cohort Four-Year Graduation and Dropout Rates, including Subgroup Data: 2007"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cty_migration_0008_271315_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Components of Population Change: Migration, 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cty_othercomp_0008_271316_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Components of Population Change: Other Components, 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cty_rates_0008_271318_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Components of Population Change: Rates of Change, 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cty_vitalstats_0008_271313_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Components of Population Change: Vital Statistics, 2000-2008"
+  :url: http://michigan.gov/
+- :description: The "Local Area Unemployment Statistics" Program (LAUS) produces employment and unemployment estimates for states, counties, cities with over 25,000 residents, and other labor market areas.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_LAUS_County_Emp9807_268576_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Employment, 1998-2007
+  :url: http://michigan.gov/
+- :description: The "Local Area Unemployment Statistics" Program (LAUS) produces employment and unemployment estimates for states, counties, cities with over 25,000 residents, and other labor market areas.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_LAUS_County_LF_9807_268577_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Labor Force, 1998-2007
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_c_sex_elderlyage_105409_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Population Estimates by Sex and Elderly Age Groups  7/1/2000 -7/1/2003
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_c_combinedagecats_105406_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Population Estimates by Sex and Select Age Groups  7/1/2000 -7/1/2003
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_c_sex_singleyearofage_104688_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Population Estimates by Sex for Single Years of Age 7/1/2000 -7/1/2003
+  :url: http://michigan.gov/
+- :description: The "Local Area Unemployment Statistics" Program (LAUS) produces employment and unemployment estimates for states, counties, cities with over 25,000 residents, and other labor market areas.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_LAUS_County_URates9807_268573_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Unemployment Rates, 1998-2007
+  :url: http://michigan.gov/
+- :description: The "Local Area Unemployment Statistics" Program (LAUS) produces employment and unemployment estimates for states, counties, cities with over 25,000 residents, and other labor market areas.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_LAUS_County_Unemp9807_268575_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: County Unemployment, 1998-2007
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Crawford
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Crawford County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Delta
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Delta County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Dickinson
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Dickinson County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Eaton
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Eaton County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Election precinct results in a tab-delimited format
+  :downloads: 
+  - :format: :html
+    :url: http://miboecfr.nictusa.com/cgi-bin/cfr/precinct_srch.cgi
+  :organization: 
+    :name: miboecfr.nictusa.com
+  :title: Election Precinct - Michigan
+  :url: http://miboecfr.nictusa.com/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Emmet
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Emmet County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Michigan Housing Estimates by County
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_HU0008_Counties_289301_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Number of Housing Units in Michigan by County: 2000-2008"
+  :url: http://michigan.gov/
+- :description: States Housing Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_HU0008_States_289297_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Number of Housing Units in the U.S. by State: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan Population Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_c65pbp_278002_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population Age 65+ by Percent of Poverty Level: Michigan Counties, 2007"
+  :url: http://michigan.gov/
+- :description: Michigan Population Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_States0008_260492_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population by State: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan Sub-County Population Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cousub0008_284884_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Cities and Townships by County: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan Sub-County Population Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cvtr0008_284641_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Cities, Villages, Townships, and Remainders of Townships: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan Sub-County Population Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_place0008_284879_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Incorporated Places: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_c5a0008_278832_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan Counties by 5-Year Age Group: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cr0008_278843_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan Counties by Race: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_County_0008_271311_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan Counties: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_psa5sr08_280314_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan PSAs by Age, Sex and Race: Persons Over Age 55, 2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Regions_0008_271312_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan Regions: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_sas0008_278414_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan by Single Year of Age and Sex: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_sarh0008_278416_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan by Single Year of Age, Race and Hispanic Origin: 2000-2008"
+  :url: http://michigan.gov/
+- :description: Michigan Population Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Mich1900-2008_260722_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population of Michigan: 1900-2008"
+  :url: http://michigan.gov/
+- :description: Michigan Educational Assessment Program (MEAP)Downloadable Data Files
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2008_3-9_Non-Public_Results_273427_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: Fall 2008 3-9 Non-Public Results (Excel Format)
+  :url: http://michigan.gov/
+- :description: Michigan Educational Assessment Program (MEAP)Downloadable Data Files
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2008_3-9_Public_Demographic_Results_273428_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: Fall 2008 3-9 Public Demographic Results (Excel Format)
+  :url: http://michigan.gov/
+- :description: Michigan Educational Assessment Program (MEAP)Downloadable Data Files
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2008_3-9_Public_Results_276056_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: Fall 2008 3-9 Public Results (Excel Format)
+  :url: http://michigan.gov/
+- :description: Financial Information Database (FID) Summary Information
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_35782_49874---,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: Financial Data - FID Summary Information
+  :url: http://michigan.gov/
+- :description: Pre-Financial Information Database (FID) Financial Data
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_35782_40460---,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: Financial Data - Historical Form B Files
+  :url: http://michigan.gov/
+- :description: Transportation Expenditure Report (SE-4094) Data Set
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/2007-2008_SE4094_Data_278167_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Financial Data - Transportation Expenditure Reports (SE-4094)2007-2008
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLBldFall06_232953_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count Building Fall 2006-07*
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLSchFall07_232688_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count Building Fall 2007-08
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLSchFall08_270279_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count Building Fall 2008-09
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLBldFall06Spr07_232955_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count Building Fall/Spring  2006-07*
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLBldgFa07Sp08v1_248009_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count Building Fall/Spring 2007-08
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRL_Bldg_Fa08Sp09_285817_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count Building Fall/Spring 2008-09
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLDstFall06_232956_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count District Fall  2006-07*
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLDstFall07_232696_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count District Fall 2007-08
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLDistFall08_270278_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count District Fall 2008-09
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLDstFall06Spr07_232957_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count District Fall/Spring 2006-07*
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLDistFa07Sp08v1_248011_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count District Fall/Spring 2007-08
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRL_District_Fa08Sp09_285820_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count District Fall/Spring 2008-09
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLStateFa06v2_248003_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall 2006-07*
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLSttFall07_232698_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall 2007-08
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLStateFall08_270280_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall 2008-09
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLSttFall06Spr07_232960_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall/Spring  2006-07*
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_30451_36965---,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall/Spring 1996-97 - 2005-06 (Data:DBF Format, Field Description:TXT Format)
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRLStateFa07Sp08v1_248012_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall/Spring 2007-08
+  :url: http://michigan.gov/
+- :description: Public Student Free and Reduced Lunch Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/FRL_State_Fa08Sp09_285821_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Free and Reduced Lunch Count State Fall/Spring 2008-09
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Genesee
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Genesee County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Gladwin
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Gladwin County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Gogebic
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Gogebic County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Grand+Traverse
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Grand Traverse County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Gratiot
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Gratiot County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: 1999 Spring Grade 11 High School Test (HST) Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/99sprhst_95117_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "High School Test (HST) Results: 1999 Spring Grade 11"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Hillsdale
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Hillsdale County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Houghton
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Houghton County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Provides Housing Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_HU0005county_169222_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Housing Units in Michigan by County (Estimated Number): 2000-2004"
+  :url: http://michigan.gov/
+- :description: Provides Housing Estimates for 2000-2005
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_HU0005county_169222_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Housing Units in Michigan by County: Estimated Number for 2000-2005"
+  :url: http://michigan.gov/
+- :description: Provides Housing Estimates
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_HU0005states_169223_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Housing Units in the U.S. by State (Estimated Number): 2000-2004"
+  :url: http://michigan.gov/
+- :description: Provides Housing Estimates for 2000-2005
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_HU0005states_169223_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Housing Units in the U.S. by State: Estimated Number for 2000-2005"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Huron
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Huron County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_MethImpact-Counties_228489_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Impact of Methodological Revisions: Counties"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_MethImpact-Regions_228490_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Impact of Methodological Revisions: Regions"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Ingham
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Ingham County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Provides the interim projections for Michigan broken down by age.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_projections_of_mi_age_distribution_00_30_122920_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Interim Projections of Michigan Age Distribution: 2000 - 2030"
+  :url: http://michigan.gov/
+- :description: Provides interim projections of Michigan population by age and sex.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_BOC_Proj05MI_122918_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Interim Projections of Michigan Population by Age and Sex, 2000 - 2030
+  :url: http://michigan.gov/
+- :description: Provides the interim projections of Growth by States.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_state_rankings_of_projected_population_00_30_122923_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Interim Projections of State Population Growth, 2000 - 2030
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Ionia
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Ionia County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Iosco
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Iosco County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Iron
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Iron County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Isabella
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Isabella County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Jackson
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Jackson County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Kalamazoo
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Kalamazoo County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Kalkaska
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Kalkaska County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Kent
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Kent County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Keweenaw
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Keweenaw County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Lake
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Lake County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Lapeer
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Lapeer County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Leelanau
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Leelanau County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Lenawee
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Lenawee County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Livingston
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Livingston County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Building Permits
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/hal_lm_census_Building_Permit_footnotes0005_178559_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Local Building Permit Footnotes 2000-2005
+  :url: http://michigan.gov/
+- :description: Building Permits
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_annualBP0005_178551_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Local Building Permits 2000-2005 (Annual)
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Luce
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Luce County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Fall 2007 MEAP All Students Progress
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/7_Fall_2007_MEAP_All_Students_Progress_230794_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP All Students Progress, Fall 2007
+  :url: http://michigan.gov/
+- :description: Class of 2006 MEAP Public Demographic Results
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/Class_of_2006_MEAP_Public_Demographic_Results_227855_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Public Demographic Results - Class of 2006
+  :url: http://michigan.gov/
+- :description: MEAP Public Demographic Results, Fall 2005, Grades 3-9 (zip file)
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2005_3-9_Public_Demographic_Results_228006_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Public Demographic Results, Fall 2005, Grades 3-9
+  :url: http://michigan.gov/
+- :description: MEAP Public Demographic Results, Fall 2006, Grades 3-9 (zip file)
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2006_3-9_Public_Demographic_Results_228010_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Public Demographic Results, Fall 2006, Grades 3-9
+  :url: http://michigan.gov/
+- :description: How Does YOUR School Measure Up? Find out how your school or school district compares academically with other schools or other school districts in Michigan.
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2008_3-9_Public_Results_276056_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP School & District Achievement Data Fall 2008 (Elementary/Middle Schools)(Excel Format)
+  :url: http://michigan.gov/
+- :description: 2008 Elementary / Middle School MEAP Achievement Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall_2008_3-9_Public_Results_276056_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP School & District Achievement Data: Fall 2008"
+  :url: http://michigan.gov/
+- :description: How Does YOUR School Measure Up? Find out how your school or school district compares academically with other schools or other school districts in Michigan.
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/7_Fall_2008_MEAP_All_Students_Progress_276519_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP School & District Progress Data Fall 2008 (Elementary/Middle Schools)(Excel Format)
+  :url: http://michigan.gov/
+- :description: 2008 Elementary / Middle School MEAP Progress Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/7_Fall_2008_MEAP_All_Students_Progress_276519_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP School & District Progress Data: Fall 2008"
+  :url: http://michigan.gov/
+- :description: 1999 Winter Grades 5 and 8 MEAP Social Studies Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/99wss58_95120_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Social Studies Results: 1999 Winter Grades 5 and 8"
+  :url: http://michigan.gov/
+- :description: 1999 Spring Grade 11 MEAP Social Studies
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/ss99hst_95118_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Social Studies: 1999 Spring Grade 11"
+  :url: http://michigan.gov/
+- :description: Class of 2005 MEAP Summary Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/ClassOf2005Downloadables_129711_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Summary Data - Class of 2005
+  :url: http://michigan.gov/
+- :description: Class of 2006 MEAP Summary Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/Class_of_2006_Results_165184_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Summary Data - Class of 2006
+  :url: http://michigan.gov/
+- :description: MEAP Test Results, Fall 2005, Grades 3-9 (zip file)
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/Fall2005MEAPSummaries03082006_152656_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Test Results, Fall 2005, Grades 3-9
+  :url: http://michigan.gov/
+- :description: MEAP Test Results, Fall 2006, Grades 3-9 (zip file)
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/Fall2006_3-9_PublicRelease_184016_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: MEAP Test Results, Fall 2006, Grades 3-9
+  :url: http://michigan.gov/
+- :description: 1999 Winter Grades 5 and 8 MEAP Social Studies Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/99wss58_95120_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2000 Winter Grades 4 and 7"
+  :url: http://michigan.gov/
+- :description: 2000 Winter Grades 5 and 8 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/58win00_95113_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2000 Winter Grades 5 and 8"
+  :url: http://michigan.gov/
+- :description: 2001 Winter Grade 4 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/4-summ-win01_95112_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2001 Winter Grade 4"
+  :url: http://michigan.gov/
+- :description: 2001 Winter Grade 7 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/7-summ-win01_95111_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2001 Winter Grade 7"
+  :url: http://michigan.gov/
+- :description: 2001 Winter Grades 5 and 8 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/58-summ-win01_95110_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2001 Winter Grades 5 and 8"
+  :url: http://michigan.gov/
+- :description: 2002 Winter Grades 4, 5, 7 and 8 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/Winter02_95105_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2002 Winter Grades 4, 5, 7 and 8"
+  :url: http://michigan.gov/
+- :description: 2003 Winter Grades 4, 5, 7 and 8 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/Winter03_95087_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2003 Winter Grades 4, 5, 7 and 8"
+  :url: http://michigan.gov/
+- :description: 2004 Winter Grades 4, 5, 7 and 8 MEAP Test Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/MEAPWinter04_90611_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: 2004 Winter Grades 4, 5, 7 and 8"
+  :url: http://michigan.gov/
+- :description: "MEAP Test Results: Winter 2005 Grades 4, 5, 7 and 8 (zip file)"
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/Winter_2005_Summaries_124084_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MEAP Test Results: Winter 2005 Grades 4, 5, 7 and 8"
+  :url: http://michigan.gov/
+- :description: See how individual districts and schools compare to the statewide averages on the Michigan Educational Assessment Program (MEAP) tests and high school Michigan Merit Exam (MME).
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/MME_Spring_2008_School__District_Data_File_276066_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "MME School & District Achievement Data: Spring 2008 (High Schools)"
+  :url: http://michigan.gov/
+- :description: See how individual districts and schools compare to the statewide averages on the Michigan Educational Assessment Program (MEAP) tests and high school Michigan Merit Exam (MME).
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/6_MME_Spring_2009_School_District_Data_File_283869_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "MME School & District Achievement Data: Spring 2009 (High Schools)"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Mackinac
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Mackinac County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Macomb
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Macomb County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Manistee
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Manistee County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Marquette
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Marquette County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Mason
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Mason County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Mecosta
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Mecosta County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Trends in Household Income
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_medhhinc0006_206852_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Median Household Income in Michigan and the U.S
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Menominee
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Menominee County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Midland
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Midland County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Missaukee
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Missaukee County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Monroe
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Monroe County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Montcalm
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Montcalm County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Montmorency
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Montmorency County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Muskegon
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Muskegon County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Newaygo
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Newaygo County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Fall 2007 3-9 Non-Public Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/6_Fall_2007_3-9_Non-Public_Results_230800_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Non-Public Results: Fall 2007, 3-9"
+  :url: http://michigan.gov/
+- :description: Determine number/location of students residing in one district while attending another.
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/cepi/NonResident_Students_286988_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: Non-Resident Student Research Tool
+  :url: http://michigan.gov/
+- :description: Nonpublic Student Counts (Headcount Data). Data files are .xls or .dbf with .doc field description files.
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_30451_30464---,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: Nonpublic Student Counts (Headcount Data)(Data:DBF,XLS Formats, Field Description:Doc Format)
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Oakland
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Oakland County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Oceana
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Oceana County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Ogemaw
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Ogemaw County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Ontonagon
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Ontonagon County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Osceola
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Osceola County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Oscoda
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Oscoda County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Otsego
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Otsego County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Ottawa
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Ottawa County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Access LP GAP Land Stewardship and UP GAP Land Stewardship
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=4&cat=GAP+Land+Stewardship
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Ownweship - GAP Land Stewardship
+  :url: http://www.mcgi.state.mi.us/
+- :description: "Table 1. Annual Estimates of the Resident Population for Counties of Michigan: April 1, 2000 to July 1, 2009"
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cgi/Copy_of_CO-EST2009-01-26_315665_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Estimated Population by County: 2000-2009"
+  :url: http://michigan.gov/
+- :description: "SEARCH the Part 201 Site List: The data is current through 9/22/2009, search for sites by county, city, pollutant, or source."
+  :downloads: 
+  - :format: :html
+    :url: http://www.deq.state.mi.us/part201ss/
+  :organization: 
+    :name: www.deq.state.mi.us
+  :title: Part 201 Site List (Excel Format)
+  :url: http://www.deq.state.mi.us/
+- :description: Provides the MAPRS (Michigan Air Pollution Reporting System) for 1990 through 1997 zipped MS Access 2000 database is in the MAPRS format and support documentation such as the data dictionary is included with the download.
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/deq/0,1607,7-135-3310_4103_4193-148360--,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: Point Source Air Emission Inventory Download 1990-2006 (Access 2000 databases)
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/Table1_place03_95116_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population (Estimated) of Incorporated Places, 2000-2003: Michigan Data - Table 1"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_sc2005-place_163283_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population (Estimated) of Incorporated Places, 2000-2005: Michigan Data - Table 1"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Regions0006_190840_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population (Estimated) of Michigan Regions and Statistical Areas: 2000-2006"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_sc2005-mcd_163284_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population (Estimated) of Minor Civil Divisions, 2000-2005: Michigan Data - Table 2"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_CountyComp0007-mig_228487_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Change Components: Migration, 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_CountyComp0007-vs_228491_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Change Components: Vital Statistics, 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_ctygencomp0006_190872_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Change and General Components of Change for Michigan Counties: Estimations for 2000-2006"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/Summary_Comp03_88171_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Population Change for Michigan Counties (Estimated Components), April 2000-July 2003 (Table 2) (Excel spreadsheet)
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_ctydetcomp0006_190874_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Change for Michigan Counties: Detailed Components for 2000-2006"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/Annual_Comp03_88179_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Change for Michigan Counties: Estimated Annual Components, April 2000-July 2003 (Table 3) (Excel spreadsheet)"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_Michigan_Tables_0004_111696_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Data for Michigan and the U.S.: 1960 - 2004"
+  :url: http://michigan.gov/
+- :description: Michigan population estimates by demographic characteristics
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_00_04_state_by_ARSH_new_135449_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population Estimates By Age, Race, Sex and Hispanic/Latino Origin: 2000 - 2004"
+  :url: http://michigan.gov/
+- :description: "Estimated Population of Michigan: 1900-1999"
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_MichEst1900-2007_219791_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Population Estimates for Michigan (Historical), 1900-1999
+  :url: http://michigan.gov/
+- :description: These state population estimates were prepared by the National Center for Health Statistics (NCHS), in collaboration with the Population Estimates branch of the U.S. Census Bureau
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_m_agegroups_104685_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Population Estimates for State by Sex and Selected Age Groups   7/1/2000 - 7/1/2003
+  :url: http://michigan.gov/
+- :description: These state population estimates were prepared by the National Center for Health Statistics (NCHS), in collaboration with the Population Estimates branch of the U.S. Census Bureau
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_mia1s03_107990_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Population Estimates for State by Sex and Single Years of Age   7/1/2000 - 7/1/2003
+  :url: http://michigan.gov/
+- :description: These state population estimates were prepared by the National Center for Health Statistics (NCHS), in collaboration with the Population Estimates branch of the U.S. Census Bureau
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_m_age_sex_5yrcats_104682_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Population Estimates for State by Sex for 5-Year Age Groups  7/1/2000 - 7/1/2003
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Arabs_by_County07_278537_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Arabs in Michigan by County: 2005-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_subco0007_241745_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Cities and Townships by County (Estimated): Michigan Data 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cvtr0007_241742_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Cities, Villages, Townships, and Remainders of Townships (Estimated): Michigan Data 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/2_mcd03_95121_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Counties and Minor Civil Divisions (Estimated): Michigan Data 2000-2003, Table 2"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_00_04_mcd_county_129620_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Counties and Minor Civil Divisions (Estimated): Michigan Data 2000-2004, Table 2"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/Table3_cvtr03_95123_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Counties, Cities, Villages, Townships, and Remainders of Townships (Estimated): Michigan Data 2000-2003, Table 3 (Excel spreadsheet)"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_00_04_incorporatedplaces_129616_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Incorporated Places (Estimated): Michigan Data 2000-2004, Table 1"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_places0007_241744_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Incorporated Places (Estimated): Michigan Data 2000-2007"
+  :url: http://michigan.gov/
+- :description: Tables are sorted first by age then by sex, race and Hispanic origin.
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_sarsh0007_276144_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan (Estimated) by Age: 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_cr0007_276143_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan (Estimated) by County and Race: 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_County0007_228486_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan Counties (Estimated): 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/pop03_88168_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan Counties (Estimated): April 2000-July 2003 (Table 1) (Excel spreadsheet)"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_csya0007_278867_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Population of Michigan Counties by Single Year of Age 2000-2007 (Estimated)
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_County05_153738_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan Counties: Estimations for 2000-2005"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_County0006_190839_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan Counties: Estimations for 2000-2006"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_psa5sr07_277980_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan PSAs (Estimated) by Age, Sex and Race: Persons Over Age 55, 2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Regions0007_228488_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan Regions (Estimated): 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal_lm_census_Regions05_153744_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan Regions and Statistical Areas: Estimations for 2000-2005"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_ca60prbs_274549_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex 2007 (Estimated): Age 60+, Both Sexes"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_ca60prf_274555_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex 2007 (Estimated): Age 60+, Females"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_ca60prm_274552_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex 2007 (Estimated): Age 60+, Males"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_caarf_274547_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex 2007 (Estimated): All Ages, Female"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_caarm_274545_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex 2007 (Estimated): All Ages, Male"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_pct60p_274536_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex 2007 (Estimated): Percent 60+, Both Sexes"
+  :url: http://michigan.gov/
+- :description: Provides estimated population by Age, Sex, Race, Hispanic Origin
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_caarbs_274542_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan by County, Race and Sex: Estimations for 2007 - All Ages, Both Sexes"
+  :url: http://michigan.gov/
+- :description: This zip file contains population estimates for both the state and county levels regarding age, sex, race and Hispanic origin.
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/hal/lm_census_carsh0007minchs_276133_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Michigan with Age, Sex, Race and Hispanic Origin Information (Estimated): 2000-2007"
+  :url: http://michigan.gov/
+- :description: Provides estimated population
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_mcd0007_241743_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Population of Minor Civil Divisions (Estimated): Michigan Data 2000-2007"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Presque+Isle
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Presque Isle County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Class of 2007 Public Demographic Results
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/Class_of_2007_MEAP_Public_Demographic_Results_227861_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Public Demographic Results: Class of 2007"
+  :url: http://michigan.gov/
+- :description: Fall 2007 3-9 Public Demographic Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/4_Fall_2007_3-9_Public_Demographic_Results_230796_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Public Demographic Results: Fall 2007, 3-9"
+  :url: http://michigan.gov/
+- :description: Public Land Survey Quarter-Quarter Sections by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=10&cat=Public+Land+Survey+Quarter%2DQuarter+Sections
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Public Land Survey Features - Public Land Survey Quarter-Quarter Sections by County
+  :url: http://www.mcgi.state.mi.us/
+- :description: Public Land Survey Sections by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=10&cat=Public+Land+Survey+Sections
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Public Land Survey Features - Public Land Survey Sections by County
+  :url: http://www.mcgi.state.mi.us/
+- :description: Public Land Survey Town/Range by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=10&cat=Public+Land+Survey+Town%2FRange
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Public Land Survey Features - Public Land Survey Town/Range by County
+  :url: http://www.mcgi.state.mi.us/
+- :description: Fall 2007 3-9 Public Results
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/mde/5_Fall_2007_3-9_Public_Results_230802_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Public Results: Fall 2007, 3-9"
+  :url: http://michigan.gov/
+- :description: Public Student Counts (Headcount Data). Data files are .xls and .csv with .txt field description files.
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_30451_30460-214378--,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: "Pupil Headcount Data (SRSD): 2008-09 (Excel, CSV Format)"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Roscommon
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Roscommon County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: School Code Master (SCM) Quick Facts - Fall 2008
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/2008-2009_SCM_Quick_Facts_260631_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: SCM Quick Facts - Fall 2008
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Saginaw
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Saginaw County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Saint+Clair
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Saint Clair County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Sanilac
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Sanilac County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Satellite Imagery by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=11&cat=Satellite+Imagery
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Satellite Imagery by County
+  :url: http://www.mcgi.state.mi.us/
+- :description: School District State Aid 1998-2008
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/School_aid_by_district_1995-2009_267040_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: School District State Aid 1998-2008
+  :url: http://michigan.gov/
+- :description: 2001-2002 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/Expulsion_Detail_58147_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2001-2002"
+  :url: http://michigan.gov/
+- :description: 2002-2003 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/Expulsion_02-03_Excel_Data_for_Web_94766_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2002-2003"
+  :url: http://michigan.gov/
+- :description: 2003-2004 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/2003-2004_School_Expulsions_Data_128425_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2003-2004"
+  :url: http://michigan.gov/
+- :description: 2004-2005 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/0405Explsn_141049_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2004-2005"
+  :url: http://michigan.gov/
+- :description: 2005-2006 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/0506ExplsnDt_183875_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2005-2006"
+  :url: http://michigan.gov/
+- :description: 2006-2007 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/ExpulsionData_Yr0607_228855_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2006-2007"
+  :url: http://michigan.gov/
+- :description: 2007-2008 School Expulsion Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/ExpulsionData_SY0708_267472_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Expulsions Data: 2007-2008"
+  :url: http://michigan.gov/
+- :description: School Personnel Data and Reports. Files include .xls and .pdf formats.
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_30446---,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: School Personnel Data and Reports
+  :url: http://michigan.gov/
+- :description: 2001-2002 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/sid_master_02_50186_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2001-2002"
+  :url: http://michigan.gov/
+- :description: 2002-2003 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/School_safety_02_03_for_Web_94749_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2002-2003"
+  :url: http://michigan.gov/
+- :description: 2003-2004 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/School_Safety_03_04_112341_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2003-2004"
+  :url: http://michigan.gov/
+- :description: 2004-2005 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/0405SftyDat_183878_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2004-2005"
+  :url: http://michigan.gov/
+- :description: 2005-2006 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/0506SftyDat_182871_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2005-2006"
+  :url: http://michigan.gov/
+- :description: 2006-2007 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/School_Safety_File_2006-7_220137_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2006-2007"
+  :url: http://michigan.gov/
+- :description: 2007-2008 School Safety Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/cepi/2007-2008_School_Safety_252518_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "School Safety Data: 2007-2008"
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Schoolcraft
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Schoolcraft County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Shiawassee
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Shiawassee County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Access Soils - SSURGO Soils by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=12&cat=SSURGO+Soils
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Soils - SSURGO Soils
+  :url: http://www.mcgi.state.mi.us/
+- :description: Special Education Enrollment
+  :downloads: 
+  - :format: :html
+    :url: http://michigan.gov/cepi/0,1607,7-113-21423_30451_37305---,00.html
+  :organization: 
+    :name: michigan.gov
+  :title: Special Education Counts (Excel Format)
+  :url: http://michigan.gov/
+- :description: Provides downloadable MS Excel Files of active and closed UST facilities, and open and closed LUST sites, either for a whole DEQ district or for individual counties within a district. A complete list of active and closed UST facilities , and open and closed LUST sites is also downloadable.
+  :downloads: 
+  - :format: :html
+    :url: http://www.deq.state.mi.us/sid-web/Download_Search.aspx
+  :organization: 
+    :name: www.deq.state.mi.us
+  :title: Storage Tank Information Database (Excel Format)
+  :url: http://www.deq.state.mi.us/
+- :description: Class of 2001 Summary Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/01summary_95108_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Summary Data: Class of 2001"
+  :url: http://michigan.gov/
+- :description: Class of 2002 Summary Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/02summary_95093_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Summary Data: Class of 2002"
+  :url: http://michigan.gov/
+- :description: Class of 2003 Summary Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/03summary_95080_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Summary Data: Class of 2003"
+  :url: http://michigan.gov/
+- :description: Class of 2004 Summary Data
+  :downloads: 
+  - :format: :zip
+    :url: http://michigan.gov/documents/Class_of_2004_105829_7.zip
+  :organization: 
+    :name: michigan.gov
+  :title: "Summary Data: Class of 2004"
+  :url: http://michigan.gov/
+- :description: Class of 2007 Summary Data
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/mde/7MEAP-Downloadable_Data_Files_Class_of_2007_Summary_Data_205720_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: "Summary Data: Class of 2007"
+  :url: http://michigan.gov/
+- :description: Access Digital Elevation Model (DEM) by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=13&cat=Digital+Elevation+Model+%28DEM%29
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Topography - Digital Elevation Model (DEM)
+  :url: http://www.mcgi.state.mi.us/
+- :description: Access Digital Raster Graphic (DRG)by County
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=13&cat=Digital+Raster+Graphic+%28DRG%29
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Topography - Digital Raster Graphic (DRG)
+  :url: http://www.mcgi.state.mi.us/
+- :description: Access Saginaw Bay Great Lakes Bathymetric Contours, Lake St. Clair Great Lakes Bathymetric Contours, Lake Erie Great Lakes Bathymetric Contours and Lake Michigan Great Lakes Bathymetric Contours
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=13&cat=Great+Lakes+Bathymetric+Contours
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Topography - Great Lakes Bathymetric Contours
+  :url: http://www.mcgi.state.mi.us/
+- :description: Access Lake Erie Great Lakes Bathymetry, Lake Michigan Great Lakes Bathymetry, Lake St. Clair Great Lakes Bathymetry and Saginaw Bay Great Lakes Bathymetry
+  :downloads: 
+  - :format: :html
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=thext&action=thmname&cid=13&cat=Great+Lakes+Bathymetry
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: Topography - Great Lakes Bathymetry
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Tuscola
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Tuscola County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: Provides Unemployment, Poverty, and Immigration Data for Library Service Areas in Michigan
+  :downloads: 
+  - :format: :xls
+    :url: http://michigan.gov/documents/hal/lm_census_Lib_Unemp-Pov-Immig_198820_7.xls
+  :organization: 
+    :name: michigan.gov
+  :title: Unemployment, Poverty, and Immigration Data for Library Service Areas in Michigan
+  :url: http://michigan.gov/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Van+Buren
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Van Buren County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Washtenaw
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Washtenaw County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Wayne
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Wayne County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/
+- :description: This data set is part of the Michigan Geographic Framework. The framework serves as the digital base map for State of Michigan government. Currently the geographic framework contains features including roads, rivers, lakes, streams, railroads, political jurisdiction boundaries, school district boundaries, census area tabulation boundaries and legislative district boundaries.
+  :downloads: 
+  - :format: :shp
+    :url: http://www.mcgi.state.mi.us/mgdl/?rel=cext&action=Wexford
+  :organization: 
+    :name: www.mcgi.state.mi.us
+  :title: "Wexford County - MI Geographic Framework Base "
+  :url: http://www.mcgi.state.mi.us/

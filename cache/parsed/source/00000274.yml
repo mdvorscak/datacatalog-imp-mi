@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: Provides the official population. Numbers and projections are broken down by age.
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/hal_lm_USProj04age_87546_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: Actual and Projected Population of the U.S. by Age, 1900 - 2050
+:url: http://michigan.gov/

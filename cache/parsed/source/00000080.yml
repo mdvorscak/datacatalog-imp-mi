@@ -1,0 +1,14 @@
+--- 
+:catalog_name: michigan.gov
+:catalog_url: http://www.michigan.gov/som/0,1607,7-192-29938_54272_54378---,00.html
+:description: These state population estimates were prepared by the National Center for Health Statistics (NCHS), in collaboration with the Population Estimates branch of the U.S. Census Bureau
+:downloads: 
+- :format: :xls
+  :url: http://michigan.gov/documents/hal_lm_census_m_agegroups_104685_7.xls
+:frequency: unknown
+:organization: 
+  :name: michigan.gov
+  :url: http://michigan.gov/
+:source_type: dataset
+:title: Population Estimates for State by Sex and Selected Age Groups   7/1/2000 - 7/1/2003
+:url: http://michigan.gov/
